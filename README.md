@@ -5,7 +5,7 @@ jQuery plugin to turn a list into a rotating text madness machine
 
 ## Demo
 
-[Demo on jsFiddle](http://jsfiddle.net/delvarworld/zQ9ye/2/)
+[Demo on jsFiddle](http://jsfiddle.net/delvarworld/zQ9ye/3/)
 
 ## Usage
 
